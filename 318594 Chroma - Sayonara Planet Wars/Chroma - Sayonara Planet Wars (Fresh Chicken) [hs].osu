@@ -1,0 +1,68 @@
+osu file format v14
+
+[General]
+AudioFilename: wnx.mp3
+AudioLeadIn: 0
+PreviewTime: 84905
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.4
+
+[Metadata]
+Title:Sayonara Planet Wars
+TitleUnicode:Sayonara Planet Wars
+Artist:Chroma
+ArtistUnicode:黒魔
+Creator:Fresh Chicken
+Version:hs
+Source:SOUND VOLTEX III GRAVITY WARS
+Tags:Kuroma The 4th KAC Original Song Contest sdvx Konami Arcade Championship ＴＡＭＡちゃん＆ＴＡＭＡ猫 Ichigaki Shirou Zan_- Rizqy Kuo_Kyoka
+BeatmapID:1763179
+BeatmapSetID:318594
+
+[Difficulty]
+HPDrainRate:8.5
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"wars.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1669,267.857142857143,4,3,1,40,1,0
+85240,-100,4,3,1,40,0,1
+102249,-100,4,3,1,40,0,0
+
+
+[HitObjects]
+64,192,1535,5,0,0:0:0:0:
+64,192,1602,1,0,0:0:0:0:
+192,192,1668,1,0,0:0:0:0:
+192,192,2338,1,0,0:0:0:0:
+64,192,2472,1,0,0:0:0:0:
+192,192,2606,1,0,0:0:0:0:
+64,192,3142,1,0,0:0:0:0:
+64,192,3410,1,0,0:0:0:0:
+192,192,3544,1,0,0:0:0:0:
+64,192,3677,1,0,0:0:0:0:
+64,192,3811,1,0,0:0:0:0:
